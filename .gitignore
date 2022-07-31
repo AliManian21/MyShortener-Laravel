@@ -1,0 +1,5 @@
+.env
+/bootstrap
+/.idea
+/node_modules
+/vendor
